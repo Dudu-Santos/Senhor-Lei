@@ -2,11 +2,6 @@
 Página estática para divulgação do Consultor Jurídico FERNANDO JUNIOR
 
 ## Funcionalidades
-* Menu com 4 links para setores da própria página
-  * SOBRE
-  * SERVIÇOS
-  * CORRETORES
-  * CONTATO 
 
 ## Tecnologias Utilizadas
 * HTML
